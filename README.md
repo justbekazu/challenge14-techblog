@@ -31,3 +31,11 @@
 - users should be able to edit and delete their posts.
 - users should be able to leave comments on other blogs.
 - users should be able to log out.
+
+---
+
+<br>
+
+### Deployment
+
+[heroku](coming)
